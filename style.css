@@ -118,20 +118,22 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 40px;
 }
 .conn33 h1{
     color: white;
     font-size: 40px;
     line-height: 52px;
     width: 60%;
-    padding-top: 280px;
+    padding-top: 220px;
     padding-bottom: 40px;
 }
 .conn33 p{
     color: white;
     font-size: 16px;
     width: 50%;
-
+    line-height: 30px;
+    padding-bottom: 30px;
 }
 .conn33 a{
     color: white;
@@ -153,10 +155,42 @@ body{
     display: flex;
     justify-content: space-between;
     width: 80%;
+    padding-left: 120px;
 }
 .conteiner3 svg{
     width: 100%;
 }
 .conn33{
     width: 70%;
+    padding-left: 60px;
+}
+.footer1{
+    background-color: #08101e;
+    display: flex;
+    justify-content: space-between;
+}
+.footer1 h1{
+    color: white;
+    font-size: 25px;
+    line-height: 38px;
+    padding-bottom: 30px;
+}
+.footer1 p{
+    color: white;
+    font-size: 16px;
+    line-height: 30px;
+    width: 75%;
+    text-align: center;
+    padding-left: 43px;
+}
+.f1{
+    width: 19%;
+    text-align: center;
+    padding: 30px 15px;
+    background-color: #0f1623;
+    border-radius: 18px;
+    margin: 10px 15px;
+}
+.f1 img{
+    padding: 35px 0px;
 }
