@@ -83,6 +83,20 @@ body{
     background-color: #345da5;
     border-radius: 8px;
 }
+.star a:hover{
+    text-decoration: none;
+    color:#345da5;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+.watch a:hover{
+    text-decoration: none;
+    color:#345da5;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 8px;
+}
 .conn1 {
     display: flex;
     justify-content: space-between;
@@ -193,4 +207,36 @@ body{
 }
 .f1 img{
     padding: 35px 0px;
+}
+.chum{
+    background-color: #08101e;
+    text-align: center;
+    padding: 10px 0px;
+}
+.about{
+    background-color: #08101e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ab{
+    display: flex;
+    justify-content: center;
+    padding: 140px;
+}
+.ab h1{
+    color: white;
+    font-size: 40px;
+    line-height: 50px;
+    padding-bottom: 30px;
+}
+.ab p{
+    color: white;
+    font-size: 16px;
+    line-height: 30px;
+    width: 70%;
+    padding-bottom: 15px;
+}
+.ab1{
+    width: 35%;
 }
